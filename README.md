@@ -27,6 +27,6 @@
    - Avaliação do desempenho do modelo com métricas apropriadas (acurácia, matriz de confusão, relatório de classificação).
 
 8. **Obtenção a lista de feature importance**  
-   - Análise as variáveis mais importantes para o modelo.
+   - Análise das variáveis mais importantes para o modelo.
 
 ---
